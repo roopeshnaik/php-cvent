@@ -308,7 +308,6 @@ class CventClient extends SoapClient {
 		return $response;
 	}
 }
-}
 
 
 class SoapDebugClient extends SoapClient {
